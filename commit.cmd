@@ -1,5 +1,5 @@
-@echo off
-if "%1" == "" echo Commit msg required && go :EOF
+::@echo off
+if "%~1" == "" echo ***Commit msg required*** && goto :EOF
 git add --all
-git commit -m "Initial commit"
+git commit -m "%~1"
 git push -u origin master
