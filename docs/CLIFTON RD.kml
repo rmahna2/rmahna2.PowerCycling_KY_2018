@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <Style id="kmlLineStyle">
+   <LineStyle>
+    <color>
+     7f0000ff
+    </color>
+    <width>
+     4
+    </width>
+   </LineStyle>
+  </Style>
+  <Placemark>
+   <name>
+<![CDATA[Clifton Rd]]>   </name>
+   <styleUrl>
+    #kmlLineStyle
+   </styleUrl>
+   <LineString>
+    <altitudeMode>
+     clampToGround
+    </altitudeMode>
+    <tessellate>
+     1
+    </tessellate>
+    <coordinates>
+     -84.84102,38.11932,0 -84.84045,38.11771,0 -84.83986,38.11598,0 -84.83895,38.11311,0 -84.83874,38.11244,0 -84.83856,38.11191,0 -84.83843,38.11168,0 -84.83828,38.11149,0 -84.83799,38.11127,0 -84.83784,38.11118,0 -84.83746,38.11104,0 -84.8366,38.11084,0 -84.83548,38.11059,0 -84.83492,38.11042,0 -84.83477,38.11036,0 -84.83463,38.11027,0 -84.83443,38.11009,0 -84.83433,38.10993,0 -84.83425,38.10979,0 -84.83378,38.10863,0 -84.83323,38.10716,0 -84.83291,38.10631,0 -84.8328,38.10596,0 -84.83278,38.10585,0 -84.83276,38.10553,0 -84.83278,38.10514,0 -84.83276,38.10463,0 -84.83269,38.10409,0 -84.83265,38.10374,0 -84.83247,38.10276,0 -84.83239,38.10237,0 -84.83236,38.10216,0 -84.83238,38.10206,0 -84.83242,38.10197,0 -84.83256,38.1018,0 -84.83271,38.10168,0 -84.83281,38.10164,0 -84.83295,38.10159,0 -84.83317,38.10157,0 -84.83418,38.10151,0 -84.8346,38.10146,0 -84.83497,38.10136,0 -84.83542,38.10115,0 -84.83549,38.10109,0 -84.83552,38.10102,0 -84.83551,38.10093,0 -84.8354,38.10079,0 -84.83499,38.1005,0 -84.83395,38.09973,0 -84.83311,38.09895,0 -84.83276,38.09856,0 -84.83233,38.09793,0 -84.83118,38.09623,0 -84.83058,38.09526,0 -84.83043,38.09495,0 -84.83022,38.09448,0 -84.82999,38.09401,0 -84.8298,38.09368,0 -84.82923,38.0927,0 -84.82869,38.09181,0 -84.82855,38.09161,0 -84.82835,38.09138,0 -84.828,38.09107,0 -84.82784,38.09089,0 -84.82772,38.09075,0 -84.82755,38.09043,0 -84.82689,38.08909,0 -84.82619,38.08761,0 -84.82595,38.08703,0 -84.82581,38.0866,0 -84.82559,38.08588,0 -84.82551,38.08545,0 -84.82548,38.08524,0 -84.82545,38.08461,0 -84.82544,38.08414,0 -84.82543,38.08333,0 -84.8254,38.08306,0 -84.82536,38.083,0 -84.82532,38.08298,0 -84.82475,38.08297,0 -84.82424,38.08296,0 -84.82411,38.08294,0 -84.82398,38.08291,0 -84.82381,38.08283,0 -84.82352,38.08266,0 -84.82317,38.08254,0 -84.82287,38.08253,0 -84.8227,38.08254,0 -84.82255,38.08256,0 -84.8224,38.08263,0 -84.82219,38.08282,0 -84.82213,38.08291,0 -84.8221,38.083,0 -84.8221,38.08319,0 -84.82218,38.08335,0 -84.82227,38.08348,0 -84.82233,38.08363,0 -84.8223,38.08378,0 -84.82216,38.08389,0 -84.82199,38.08392,0 -84.82186,38.08389,0 -84.82147,38.08378,0 -84.8213,38.08376,0 -84.82115,38.08378,0 -84.82101,38.08382,0 -84.82089,38.08388,0 -84.82071,38.084,0 -84.82041,38.0842,0 -84.82019,38.08426,0 -84.82006,38.08427,0 -84.81987,38.08422,0 -84.81948,38.08403,0 -84.8192,38.08389,0 -84.81897,38.08382,0 -84.81865,38.08379,0 -84.81802,38.08378,0 -84.81735,38.08379,0 -84.81698,38.08373,0 -84.81654,38.08358,0 -84.81619,38.08345,0 -84.81581,38.08334,0 -84.81458,38.08312,0 -84.81421,38.08303,0 -84.81405,38.08295,0 -84.81385,38.0828,0 -84.81369,38.08253,0 -84.81343,38.08164,0 -84.81312,38.08039,0 -84.81299,38.07997,0 -84.81269,38.0792,0 -84.81254,38.07884,0 -84.81238,38.07855,0 -84.81226,38.07839,0 -84.81195,38.07809,0 -84.8116,38.07782,0 -84.81122,38.07756,0 -84.81079,38.07733,0 -84.81035,38.07712,0 -84.80829,38.07616,0 -84.80829,38.07616,0 -84.80585,38.07497,0 -84.80329,38.07362,0 -84.80264,38.07329,0 -84.80219,38.07309,0 -84.79919,38.07201,0 -84.79872,38.07187,0 -84.79776,38.07165,0 -84.79363,38.07066,0 -84.79,38.06982,0 -84.78852,38.06949,0 -84.78733,38.06921,0 -84.78645,38.06898,0 -84.78385,38.06807,0 -84.78281,38.06767,0 -84.78195,38.06727,0 -84.77767,38.06491,0 -84.77448,38.0632,0 -84.77206,38.06194,0 -84.77064,38.0612,0 -84.7689,38.06036,0 -84.76499,38.05845,0 -84.76457,38.05824,0 -84.76415,38.05807,0 -84.76218,38.05741,0 -84.76032,38.05682,0 -84.75935,38.05656,0 -84.75846,38.05636,0 -84.75594,38.05583,0 -84.7524,38.05507,0 -84.7501,38.05459,0 -84.74926,38.05443,0 -84.74875,38.05431,0 -84.74701,38.05392,0 -84.74421,38.05332,0 -84.74124,38.05269,0 -84.7383,38.05204,0 -84.73796,38.052,0 -84.73757,38.05196,0 -84.73465,38.05178,0 -84.73093,38.0515,0 
+    </coordinates>
+   </LineString>
+  </Placemark>
+  <Style id="Mile_1">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=1]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_1
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.83323,38.10716,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 1
+   </name>
+  </Placemark>
+  <Style id="Mile_2">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=2]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_2
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.83058,38.09526,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 2
+   </name>
+  </Placemark>
+  <Style id="Mile_3">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=3]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_3
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.82352,38.08266,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 3
+   </name>
+  </Placemark>
+  <Style id="Mile_4">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=4]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_4
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.8116,38.07782,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 4
+   </name>
+  </Placemark>
+  <Style id="Mile_5">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=5]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_5
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.79363,38.07066,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 5
+   </name>
+  </Placemark>
+  <Style id="Mile_6">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=6]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_6
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.77448,38.0632,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 6
+   </name>
+  </Placemark>
+  <Style id="Mile_8">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=8]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_8
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.75594,38.05583,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 8
+   </name>
+  </Placemark>
+  <Style id="Mile_9">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[http://api.mapmyfitness.com/vx/map_marker_image/0/?format=png&txt=9]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #Mile_9
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.73796,38.052,0
+    </coordinates>
+   </Point>
+   <name>
+    Mile 9
+   </name>
+  </Placemark>
+  <Style id="start_marker">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[https://mmf.cachefly.net/d/mapping_api/stable/img/markers/start.png]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #start_marker
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.84102,38.11932,0
+    </coordinates>
+   </Point>
+   <name>
+    Clifton Rd
+   </name>
+  </Placemark>
+  <Style id="finish_marker">
+   <IconStyle>
+    <Icon>
+     <href>
+<![CDATA[https://mmf.cachefly.net/d/mapping_api/stable/img/markers/stop.png]]>     </href>
+    </Icon>
+   </IconStyle>
+  </Style>
+  <Placemark>
+   <styleUrl>
+    #finish_marker
+   </styleUrl>
+   <Point>
+    <coordinates>
+     -84.73093,38.0515,0
+    </coordinates>
+   </Point>
+   <name>
+    Clifton Rd
+   </name>
+  </Placemark>
+ </Document>
+</kml>
